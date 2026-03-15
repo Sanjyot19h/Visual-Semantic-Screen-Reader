@@ -82,6 +82,7 @@ Visionary combines **computer vision, voice AI, and agentic automation**.
 
 ---
 
+
 ## 🛠️ Technical Architecture
 
 | Component | Technology | Description |
@@ -91,6 +92,7 @@ Visionary combines **computer vision, voice AI, and agentic automation**.
 | **Mouth** | Amazon Polly (Neural) | High-fidelity, human-like voice synthesis |
 | **Vision** | PyAutoGUI | Universal system-wide screen capture |
 | **Audio** | FFmpeg / FFplay | Sequential, non-blocking audio output |
+
 
 
 ---
