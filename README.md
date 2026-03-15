@@ -82,6 +82,20 @@ Visionary combines **computer vision, voice AI, and agentic automation**.
 
 ---
 
+## 🛠️ Technical Architecture
+
+| Component | Technology | Description |
+| :--- | :--- | :--- |
+| **Brain** | Amazon Bedrock (Nova Pro) | Multimodal reasoning & visual analysis |
+| **Ears** | OpenAI Whisper (Local) | Real-time speech-to-text transcription |
+| **Mouth** | Amazon Polly (Neural) | High-fidelity, human-like voice synthesis |
+| **Vision** | PyAutoGUI | Universal system-wide screen capture |
+| **Audio** | FFmpeg / FFplay | Sequential, non-blocking audio output |
+
+
+---
+
+
 ##  System Architecture
 
 ![Visionary Architecture](architecture/visionary-architecture.png)
